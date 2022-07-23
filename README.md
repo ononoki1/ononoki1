@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ononoki1/ononoki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm ononoki. Glad to see you!
 
-Here are some ideas to get you started:
+- 🌱 I'm an undergraduate student at USTC, in China.
+- 🔭 I'm now an intern at MSRA, in Shanghai.
+- 🔧 I use Python, C++, C and MATLAB most.
+- 📫 Contact me via [Email](mailto:me@ononoki.org) (recommended) or [Telegram](https://t.me/ononoki1).
+- 💬 Want to say something to me? Use comment area [here](https://blog.ononoki.org/about/#waline).
+- 📚 This is my [resume](https://resume.ononoki.org) (in Simplified Chinese).
+- ⚡ Find out more about me on my [homepage](https://ononoki.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Feeling lucky?
+
+Try this command!
+
+```bash
+nslookup -q=txt hi.ononoki.org
+```
